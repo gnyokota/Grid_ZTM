@@ -50,10 +50,10 @@ a{
 }
 
 .top{
- font-family: 'Sacramento', cursive;
- font-size: 15rem;
- background-color: #FFF;
- color: #0d7377;
+background-image: url("img/Asset 2@2x.png");
+ background-repeat: no-repeat;
+ background-size: contain;
+ background-position: center;
 }
 
 /* grid */
